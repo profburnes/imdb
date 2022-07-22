@@ -1,0 +1,45 @@
+.navbar {
+    box-shadow: 0 0 10px #ccc;
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    height: 40px;
+}
+
+.card {
+    box-shadow: 0 0 10px #ccc;
+    margin-bottom: 20px;
+}
+
+.card img {
+    border-radius: 5px 5px 0 0;
+}
+
+.tarja {
+    width: 100%;
+    box-shadow: 0 0 10px #ccc;
+    padding: 15px;
+    box-sizing: border-box;
+    color: #333;
+    border-radius: 5px;
+}
+
+.tarja img {
+    border-radius: 5px;
+}
+
+h1, h3 {
+    margin: 30px 0;
+}
+
+.card iframe {
+    border-radius: 5px;
+}
